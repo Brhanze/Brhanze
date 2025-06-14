@@ -27,10 +27,32 @@ I'm passionate about turning raw environmental data into actionable insights. I 
 ---
 
 ## 🎯 Career Goals
-I'm currently seeking roles in **data science** with a focus on:
-- Environmental impact modeling
-- Remote sensing or GIS-based analytics
-- Predictive modeling with real-world datasets
+🎯 Career Goals
+
+I'm currently seeking roles in **data science, AI, and analytics**, where I can apply machine learning, cloud platforms, and domain expertise to drive real-world impact. My interests span across multiple sectors:
+
+- 🌿 **Environmental & Climate Tech**:  
+  Environmental impact modeling, remote sensing (GIS), pollution forecasting, water and air quality analytics.
+
+- 🏥 **Public Health & Epidemiology**:  
+  Time series forecasting of disease trends, healthcare data visualization, health equity modeling using geospatial and demographic data.
+
+- 🛫 **Transportation & Logistics**:  
+  Flight delay prediction, traffic pattern optimization, demand forecasting, smart city data analysis.
+
+- 💼 **Business Intelligence & Operations**:  
+  Sales prediction, churn analysis, operations optimization, customer segmentation, dashboard automation (Power BI, QuickSight).
+
+- 🧬 **Scientific Research & Academia**:  
+  Data-driven modeling for scientific simulations, reproducible ML workflows using Jupyter and cloud platforms.
+
+- 🧠 **AI & NLP Applications**:  
+  Exploring transformer models, LLM fine-tuning, document summarization, and chatbot development for data access.
+
+- ☁️ **Cloud-Based Analytics**:  
+  Scalable machine learning on AWS (SageMaker, Glue, Athena), automated pipelines, and serverless deployments.
+
+I'm passionate about using **data and technology to improve decision-making**, solve real problems, and communicate insights clearly through visualization and storytelling.
 
 ---
 
