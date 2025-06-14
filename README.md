@@ -2,7 +2,7 @@
 
 Data Scientist | 📊 Machine Learning | ☁️ AWS | 🗺️ Geospatial Analytics
 
-I'm passionate about turning raw environmental data into actionable insights. I use predictive modeling, geospatial analysis, and cloud tools to solve real-world problems—ranging from air quality forecasting to urban crime pattern mapping.
+I'm passionate about turning raw data into actionable insights. I use predictive modeling, geospatial analysis, and cloud tools to solve real-world problems—ranging from air quality forecasting to urban crime pattern mapping.
 
 ---
 
