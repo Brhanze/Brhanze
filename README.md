@@ -15,7 +15,7 @@ I'm passionate about turning raw environmental data into actionable insights. I 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
