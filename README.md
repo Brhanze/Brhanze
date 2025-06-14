@@ -27,7 +27,6 @@ I'm passionate about turning raw environmental data into actionable insights. I 
 ---
 
 ## 🎯 Career Goals
-🎯 Career Goals
 
 I'm currently seeking roles in **data science, AI, and analytics**, where I can apply machine learning, cloud platforms, and domain expertise to drive real-world impact. My interests span across multiple sectors:
 
