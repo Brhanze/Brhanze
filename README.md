@@ -19,7 +19,7 @@ I'm passionate about turning raw data into actionable insights. I use predictive
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Iris Classification with PyTorch](https://github.com/Brhanze/Iris_data_ste_model_traing_with_pytorch) | Deep learning classifier for Iris dataset using PyTorch and neural networks | PyTorch, NumPy, scikit-learn |
+| [Iris Classification with PyTorch](https://github.com/Brhanze/Taining-pytorch-using-Iris-dataset/blob/main/Iris_data_ste_model_traing_with_pytorch.ipynb) | Deep learning classifier for the Iris dataset using PyTorch neural networks | PyTorch, NumPy, scikit-learn |
 | [Kansas City AQI Prediction](https://github.com/Brhanze/Kansas-city-air-quality-prediction) | LSTM time-series model to forecast air quality trends | Python, LSTM, AWS |
 | [San Francisco Crime Mapping](https://github.com/Brhanze/Crimes-Analysis-in-the-City-of-San-Francisco) | Geospatial analysis of crime incidents using Folium | pandas, folium, matplotlib |
 | [Flight Delay Analysis](https://github.com/Brhanze/airline-delay-analysis) | Delay pattern analysis by airline, season, and airport | Python, seaborn |
